@@ -1,3 +1,3 @@
 # Test
-Test Repository
-PWD
+Test Repository for JavaScript Course
+
